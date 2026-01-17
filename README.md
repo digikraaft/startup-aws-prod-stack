@@ -17,13 +17,14 @@
 
 ## 📊 Architecture
 
-````carousel
-![High Level Architecture](file:///Users/timoladoyinbo/dev/cloud/startup-aws-prod-stack/architecture/high-level.png)
-<!-- slide -->
-![Networking Architecture](file:///Users/timoladoyinbo/dev/cloud/startup-aws-prod-stack/architecture/networking.png)
-<!-- slide -->
-![Security Boundaries Architecture](file:///Users/timoladoyinbo/dev/cloud/startup-aws-prod-stack/architecture/security-boundaries.png)
-````
+### High-Level Architecture
+![High Level Architecture](architecture/high-level.png)
+
+### Networking Architecture
+![Networking Architecture](architecture/networking.png)
+
+### Security Boundaries
+![Security Boundaries Architecture](architecture/security-boundaries.png)
 
 
 ## 🛠️ Quick Start
