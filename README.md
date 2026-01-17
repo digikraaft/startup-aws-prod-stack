@@ -15,6 +15,17 @@
 - **AWS ALB + ACM** (Load Balancing & SSL)
 - **AWS VPC** (Public/Private Subnets, NAT Gateway)
 
+## 📊 Architecture
+
+````carousel
+![High Level Architecture](file:///Users/timoladoyinbo/dev/cloud/startup-aws-prod-stack/architecture/high-level.png)
+<!-- slide -->
+![Networking Architecture](file:///Users/timoladoyinbo/dev/cloud/startup-aws-prod-stack/architecture/networking.png)
+<!-- slide -->
+![Security Boundaries Architecture](file:///Users/timoladoyinbo/dev/cloud/startup-aws-prod-stack/architecture/security-boundaries.png)
+````
+
+
 ## 🛠️ Quick Start
 
 ### 1. Prerequisites
